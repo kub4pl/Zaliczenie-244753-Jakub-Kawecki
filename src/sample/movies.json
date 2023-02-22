@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Gladiator",
+    "author": "Ridley Scot",
+    "year": "2000",
+    "type": "Dramat"
+  },
+  {
+    "title": "Desperado",
+    "author": "Robert Rodriguez",
+    "year": "1995",
+    "type": "Akcja"
+  },
+  {
+    "title": "Nagi instynkt",
+    "author": "Paul Verhoeven",
+    "year": "1992",
+    "type": "Thriller"
+  },
+  {
+    "title": "Szklana Pułapka",
+    "author": "John McTiernan",
+    "year": "1988",
+    "type": "Sensacyjny"
+  },
+  {
+    "title": "Asterix i Obelix: Misja Kleopatra",
+    "author": "Alain Chabat",
+    "year": "2002",
+    "type": "Komedia"
+  },
+  {
+    "title": "Harry Potter i Kamień Filozoficzny",
+    "author": "Chris Columbus",
+    "year": "2001",
+    "type": "Fantasy"
+  }
+]
